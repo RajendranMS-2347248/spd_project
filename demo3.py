@@ -1,3 +1,9 @@
+pip3 install streamlit
+pip3 install opencv-python
+pip3 install pytorch
+
+
+
 import streamlit as st
 import cv2
 import torch
